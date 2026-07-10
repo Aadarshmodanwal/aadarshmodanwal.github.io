@@ -1,1 +1,37 @@
-/* Portfolio CSS */
+body{
+margin:0;
+font-family:Arial,sans-serif;
+background:#081b3a;
+color:white;
+}
+
+.card{
+background:#11284d;
+padding:20px;
+margin:20px;
+border-radius:15px;
+box-shadow:0 0 15px rgba(255,215,0,.3);
+}
+
+.btn{
+background:#FFD700;
+color:#000;
+padding:12px 25px;
+border-radius:30px;
+text-decoration:none;
+font-weight:bold;
+}
+
+.btn:hover{
+background:white;
+color:#081b3a;
+transition:.3s;
+}
+
+h1{
+color:#FFD700;
+}
+
+h2{
+color:white;
+}
